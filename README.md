@@ -23,3 +23,6 @@ Ex2.exe
 ```
 
 > `Ex6.c` and `joko.c` are missing a `;` after `printf("Input number %d", i)`, so add it before compiling.
+
+## License
+Released under the [MIT License](LICENSE).
